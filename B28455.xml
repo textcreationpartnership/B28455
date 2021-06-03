@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for raising a million.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28455</idno><idno type="EEBO-CITATION">99885655</idno>
+  <idno type="VID">201572</idno>
+  <idno type="EEBO-PROQUEST">2240890518</idno>
+  
+            <idno type="STC">ESTC R224788</idno>
+            <idno type="STC">Wing P3738</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.6[22]</idno>
+            <idno type="STC">ESTC R224788</idno>
+            <idno type="STC">ESTC R224789</idno>
+            <idno type="PROQUEST">ocm99885655</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885655e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28455)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201572)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C25:3[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for raising a million.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Excise tax --  England --  Early works to 1800.</term>
+               <term type="topical_term">Taxation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Debts, public --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:201572:1"/>
+            <head>PROPOSALS FOR Raising a Million.</head>
+            <p>THAT a Fund of 106 thousand Pounds <hi>per Annum,</hi> be s<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> (out of an Excise or otherwise) for twenty Years, and <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>sted in a Corporation (to be made by Parliament) who shall immediately take in Subscriptions for twelve hundred thousand Pounds, <hi>viz.</hi> for a Million to be paid into the Ex<g ref="char:EOLhyphen"/>chequer, and for 200 thousand Pounds to remain the Stock of the Cor<g ref="char:EOLhyphen"/>poration, to Circulate the Million-Credit (herein after mentioned) in Payments.</p>
+            <p>That upon Payment of the Monies subscribed for the Million, every Person paying the same, shall for every 100 <hi>l.</hi> so paid, have a Assign<g ref="char:EOLhyphen"/>ment of 2 <hi>l. per Ann.</hi> part of the 106 thousand Pounds <hi>per Ann.</hi> for twen<g ref="char:EOLhyphen"/>ty Years (which Assignments for the whole Million will amount to twen<g ref="char:EOLhyphen"/>ty thousand Pounds <hi>per Ann.</hi>) And shall also have a Note under the Com<g ref="char:EOLhyphen"/>mon Seal of the Corporation for 100 <hi>l.</hi> payable to the Bearer at demand with 2 <hi>l. per Ann.</hi> interest thereon for twenty years (with some Provi<g ref="char:EOLhyphen"/>sion to be made in the Act, that the Notes shall not be demanded till the Million is paid into the Exchequer, or the Time elapsed which shall be appointed by the Act for the Payment thereof) which will make the Corporation Debtor for a Million Principal, and twenty thousand Pounds <hi>per Ann.</hi> more for Interest for twenty Years.</p>
+            <p>That for the Security of all Persons who take these Notes, the Corpo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation shall (by the Act) be obliged yearly to lay out 50 thousand Pounds in the Purchase of Lands (to be conveyed unto them by Bargain <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Sale inrolled in Chancery) which Lands, and the Rents and Profits thereof, shall be liable to the Payment of these Notes, and to no other Debts of the Incorporation; and shall never be sold or divided, unless for Payment of these Notes, whereby the Incorporation will (in twenty Years) have the value of a Million in Land, (besides the Rents and Pro<g ref="char:EOLhyphen"/>fits, and their 200 thousand Pounds) to answer their Million Credit.</p>
+            <p>That the 16 Thousand pounds <hi>per Ann.</hi> (Residue of the 106 Thou<g ref="char:EOLhyphen"/>sand pounds <hi>per Ann.</hi>) shall be yearly divided to the Stock of 200 Thou<g ref="char:EOLhyphen"/>sand Pounds, which is 8 <hi>l. per Cent.</hi> Interest, our of which must be born the Charges of this Bank, computed at 2 <hi>per Cent.</hi>
+            </p>
+            <p>So that every one who payes 100 <hi>l.</hi> towards the Stock of 200 Thousand pounds, receives 6 <hi>l. per Cent.</hi> for 20 years, and hath his principal Money remaining in the Stock of the Incorporation. And every one who payes 100 <hi>l.</hi> towards the Million, doth at the same instant receive back his 100 <hi>l.</hi> by Note (which by reason of the Inte<g ref="char:EOLhyphen"/>rest running upon it, is more valuable than the Money he brought in) an hath also 2 <hi>l. per Ann.</hi> for 20 years for Advance of the 100 <hi>l.</hi>
+            </p>
+            <p>This PROPOSAL,</p>
+            <list>
+               <item>Will speed the Payments into the <hi>Exchequer.</hi>
+               </item>
+               <item>Is the cheapest to the Government of any yet proposed.</item>
+               <item>Is Easie to the People.</item>
+               <item>Doth not Monopolize the Advantage to the Undertakers, but di<g ref="char:EOLhyphen"/>stributes it amongst Contributors and Creditors.</item>
+               <item>Advances the Value of Land, which is much depreciated by all other Funds yet raised or proposed.</item>
+               <item>Doth (by the Bills of Credit) make an immediate Return of all Moneys advanced towards it, whereas other Funds (of the na<g ref="char:EOLhyphen"/>ture of those for Lives and Lotteries) do exhaust Millions out of Trade, without replenishing the same.</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
